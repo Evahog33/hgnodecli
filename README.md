@@ -9,4 +9,3 @@
 - npm install hgnodecli -g
 - hoog init < project-name > 
 
-# hgnodecli
